@@ -1,4 +1,4 @@
-These toolchains were built using crosstool-ng commit #358945ff2219e37d280532522d2c62309614d162 in a Debian 11 container.
+These toolchains were built using crosstool-ng commit #2282a97e3c3eea29cf45bd3757fb93b83f17f907 in a Debian 12 (testing) container.
 
 Both the crosstool-ng config files and sources used to build them are included in the repo.
 

@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/crosstool-ng/.build/HOST-aarch64-linux-gnu/x86_64-unknown-elf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=aarch64-host_unknown-linux-gnu --target=x86_64-unknown-elf --prefix=/home/user/x-tools/HOST-aarch64-linux-gnu/x86_64-unknown-elf --exec_prefix=/home/user/x-tools/HOST-aarch64-linux-gnu/x86_64-unknown-elf --with-local-prefix=/home/user/x-tools/HOST-aarch64-linux-gnu/x86_64-unknown-elf/x86_64-unknown-elf --with-headers=/home/user/x-tools/HOST-aarch64-linux-gnu/x86_64-unknown-elf/x86_64-unknown-elf/include --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG 1.25.0.168_2282a97' --disable-__cxa_atexit --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libstdcxx-verbose --disable-libstdcxx --with-gmp=/crosstool-ng/.build/HOST-aarch64-linux-gnu/x86_64-unknown-elf/buildtools/complibs-host --with-mpfr=/crosstool-ng/.build/HOST-aarch64-linux-gnu/x86_64-unknown-elf/buildtools/complibs-host --with-mpc=/crosstool-ng/.build/HOST-aarch64-linux-gnu/x86_64-unknown-elf/buildtools/complibs-host --with-isl=/crosstool-ng/.build/HOST-aarch64-linux-gnu/x86_64-unknown-elf/buildtools/complibs-host --disable-lto --disable-nls --disable-multilib --enable-languages=c,c++";
+static const char thread_model[] = "single";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "generic" }, { "arch", "x86-64" } };
